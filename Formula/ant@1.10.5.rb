@@ -1,4 +1,4 @@
-class Ant < Formula
+class Ant1105 < Formula
   desc "Java build tool"
   homepage "https://ant.apache.org/"
   url "https://www.apache.org/dyn/closer.cgi?path=ant/binaries/apache-ant-1.10.5-bin.tar.xz"
